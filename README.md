@@ -14,3 +14,5 @@ similar to:
 ```
 helm install c7n-kube ./charts/c7n-kube --namespace c7n-system --values ./values.yml --create-namespace
 ```
+
+fixed
